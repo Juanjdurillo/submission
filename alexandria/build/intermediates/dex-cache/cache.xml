@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\JuanJose\Documents\alexandria\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.1\jars\libs\internal_impl-23.0.1.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
+        <dex dex="C:\Users\JuanJose\Documents\alexandria\app\build\intermediates\pre-dexed\debug\internal_impl-23.0.1_e0716376d988e23509d76966d91b6482ca934b05.jar" />
+    </item>
+    <item
+        jar="C:\Users\JuanJose\.gradle\caches\modules-2\files-2.1\com.google.zxing\core\3.2.1\2287494d4f5f9f3a9a2bb6980e3f32053721b315\core-3.2.1.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="2287494d4f5f9f3a9a2bb6980e3f32053721b315">
+        <dex dex="C:\Users\JuanJose\Documents\alexandria\app\build\intermediates\pre-dexed\debug\core-3.2.1_3de84a9cbfc95ce4b9dac9766f735ac3c1edaba2.jar" />
+    </item>
+    <item
+        jar="C:\Users\JuanJose\Documents\alexandria\app\build\intermediates\exploded-aar\me.dm7.barcodescanner\zxing\1.8.3\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="1bfe1cf652c5fe0f666ea9c9d8a4fd2db1b40a11">
+        <dex dex="C:\Users\JuanJose\Documents\alexandria\app\build\intermediates\pre-dexed\debug\me.dm7.barcodescanner-zxing-1.8.3_d3da242afded4805cbe60ac39b2d23d74b1bb3a1.jar" />
+    </item>
+    <item
+        jar="C:\Users\JuanJose\Documents\alexandria\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.3\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="81d42bf983a8741f4888a6e333e454e4a5e0eeb7">
+        <dex dex="C:\Users\JuanJose\Documents\alexandria\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-21.0.3_c0f74eb33b5d68d9a5a34cc3d3309643b0ab43ac.jar" />
+    </item>
+    <item
+        jar="C:\Users\JuanJose\Documents\alexandria\app\build\intermediates\jacoco\jacocoagent.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="ea73283d55c98ab1fccb8c23d76c68b7d7ecbd83">
+        <dex dex="C:\Users\JuanJose\Documents\alexandria\app\build\intermediates\pre-dexed\debug\jacocoagent_7af2471152ea2542435e20fcf0293fd198f549c7.jar" />
+    </item>
+    <item
+        jar="C:\Users\JuanJose\Documents\alexandria\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.1\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
+        <dex dex="C:\Users\JuanJose\Documents\alexandria\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-23.0.1_09560af3f2e837f9f22e8d14ff98d53be2f7856b.jar" />
+    </item>
+    <item
+        jar="C:\Users\JuanJose\Documents\alexandria\app\build\intermediates\exploded-aar\me.dm7.barcodescanner\core\1.8.3\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="2acb8f25e91dc79b3e9fe3e4fc059d491756efcd">
+        <dex dex="C:\Users\JuanJose\Documents\alexandria\app\build\intermediates\pre-dexed\debug\me.dm7.barcodescanner-core-1.8.3_3751c685068905d0c3cfb7b2524475a5f8c07127.jar" />
+    </item>
+    <item
+        jar="C:\Android\extras\android\m2repository\com\android\support\support-annotations\23.0.1\support-annotations-23.0.1.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="1fce89a6428c51467090d7f424e4c9c3dbd55f7e">
+        <dex dex="C:\Users\JuanJose\Documents\alexandria\app\build\intermediates\pre-dexed\debug\support-annotations-23.0.1_6cfac31f7437abb4170e42473e29419e097e8274.jar" />
+    </item>
+
+</items>
